@@ -1,0 +1,17 @@
+body{background: #777;width: 960px}
+header{text-align: center;background:
+white;color: blue;padding: 10px;margin: 3%}
+
+nav{text-align: center;background: white;
+color: red;padding: 10px; margin: 3%;}
+
+
+section{background: white;padding: 10px;
+}
+
+.jj{float: left;margin-right: 500px; overflow: auto;}
+
+aside{float: right;background: white;padding: 100px;
+	overflow: auto;}
+
+footer{background: white;}
